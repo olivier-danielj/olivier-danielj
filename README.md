@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
 - 🌱 I’m a Software Developer at Nile.ag; focused on Go back-end development
-- 🎲 I love playing/making any and all games in my free time. I've also got a growing board game collection.
+- 🎲 I love playing and making games in my free time
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
